@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:3b82f6&height=220&section=header&text=Muhammad%20Ikhsan%20Trianda%20Baskara&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20ERP%20Engineer&descAlignY=58&descSize=16" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:3b82f6&height=220&section=header&text=Muhammad%20Ikhsan%20Trianda%20Baskara&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20ERP%20Engineer&descAlignY=58&descSize=16" alt="Header Banner" />
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://github.com/ikhsanbskr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=780&lines=Full-Stack+Developer+%40+IncubeSolutions;Building+ERP%2C+HRIS%2C+and+internal+business+systems;Working+with+PHP%2C+Laravel%2C+React%2C+Next.js%2C+and+SQL+Server;Desktop+development+with+Java+(NetBeans)+and+VB.NET" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=780&lines=Full-Stack+Developer+%40+IncubeSolutions;Building+ERP%2C+HRIS%2C+and+internal+business+systems;Working+with+PHP%2C+Laravel%2C+React%2C+Next.js%2C+and+SQL+Server;Desktop+development+with+Java+NetBeans+and+VB.NET" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -47,44 +47,51 @@ I work as a full-stack developer at IncubeSolutions in Tangerang Selatan, where 
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=php,ts,js,java,dotnet,html,css,bash&theme=dark" alt="Languages" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java_(Desktop)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Desktop" />
   <img src="https://img.shields.io/badge/Visual_Basic_(VB.NET)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Visual Basic Desktop" />
   <img src="https://img.shields.io/badge/T--SQL_%2F_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
 ### Frameworks, desktop, and UI
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,tailwind,bootstrap,jquery,vite&theme=dark" alt="Frameworks" />
-</p>
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
   <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Radix_UI_%2F_Shadcn-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/.NET_Desktop_(WinForms)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Desktop" />
 </p>
 
 ### Databases, IDEs, and tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,docker,linux,arch,vscode,visualstudio,postman,figma&theme=dark" alt="Databases and Tools" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MySQL_%2F_MariaDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="Apache NetBeans" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/Apache_%2F_Nginx-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 </div>
@@ -93,15 +100,15 @@ I work as a full-stack developer at IncubeSolutions in Tangerang Selatan, where 
 
 <div align="center">
   <a href="https://github.com/ikhsanbskr">
-    <img src="https://github-profile-trophy.vercel.app/?username=ikhsanbskr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" width="100%" />
+    <img src="https://github-trophies.vercel.app/?username=ikhsanbskr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" width="100%" />
   </a>
 </div>
 
 ## GitHub stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ikhsanbskr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="Ikhsan's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsanbskr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top Languages" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=ikhsanbskr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="Ikhsan's GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ikhsanbskr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top Languages" />
 </div>
 
 <div align="center">

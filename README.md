@@ -37,12 +37,12 @@ location: "Tangerang Selatan, Indonesia 🇮🇩"
 core_focus:
   - "Enterprise Resource Planning (ERP) — Sales, Invoicing, Inventory & Multi-Level Approvals"
   - "Human Resource Information Systems (HRIS) — Attendance, Payroll & Employee Portals"
-  - "Modern Full-Stack Web Applications (Laravel, Inertia.js, React, Next.js, TypeScript)"
+  - "Modern Full-Stack Web & Desktop Applications (Laravel, React, Next.js, Java/NetBeans, VB.NET)"
   - "Relational Database Architecture & Query Optimization (SQL Server, MySQL, PostgreSQL)"
 philosophy: "Translating complex business operations into reliable, scalable, and intuitive software."
 ```
 
-I am a **Full-Stack Software Developer** and **ERP System Engineer** based in Indonesia, currently building enterprise software solutions at **IncubeSolutions**. My work centers on designing and maintaining mission-critical **ERP** and **HRIS** platforms—handling end-to-end business workflows such as sales orders, billing & invoicing, inventory management, attendance machine synchronization, and multi-tier document approvals—alongside developing modern full-stack web applications using **Laravel, CodeIgniter, React, Next.js, and TypeScript**.
+I am a **Full-Stack Software Developer** and **ERP System Engineer** based in Indonesia, currently building enterprise software solutions at **IncubeSolutions**. My work centers on designing and maintaining mission-critical **ERP** and **HRIS** platforms—handling end-to-end business workflows such as sales orders, billing & invoicing, inventory management, attendance machine synchronization, and multi-tier document approvals—alongside developing modern full-stack web and desktop applications using **Laravel, CodeIgniter, React, Next.js, TypeScript, Java (NetBeans), and Visual Basic**.
 
 ---
 
@@ -52,16 +52,18 @@ I am a **Full-Stack Software Developer** and **ERP System Engineer** based in In
 
 ### 💻 Languages & Core Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=php,ts,js,html,css,bash&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=php,ts,js,java,dotnet,html,css,bash&theme=dark" alt="Languages" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java_(Desktop)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Desktop" />
+  <img src="https://img.shields.io/badge/Visual_Basic_(VB.NET)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Visual Basic Desktop" />
   <img src="https://img.shields.io/badge/T--SQL_%2F_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
 </p>
 
-### 🚀 Frameworks, Libraries & UI
+### 🚀 Frameworks, Desktop & UI
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,tailwind,bootstrap,jquery,vite&theme=dark" alt="Frameworks" />
 </p>
@@ -73,16 +75,19 @@ I am a **Full-Stack Software Developer** and **ERP System Engineer** based in In
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Radix_UI_%2F_Shadcn-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/.NET_Desktop_(WinForms)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Desktop" />
 </p>
 
-### 🗄️ Databases, Infrastructure & Tools
+### 🗄️ Databases, IDEs & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,docker,linux,arch,vscode,postman,figma&theme=dark" alt="Databases and Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,docker,linux,arch,vscode,visualstudio,postman,figma&theme=dark" alt="Databases and Tools" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MySQL_%2F_MariaDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="Apache NetBeans" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/Apache_%2F_Nginx-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
 </p>

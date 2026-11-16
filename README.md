@@ -18,10 +18,9 @@
   <a href="mailto:ikhsan.bskr03@gmail.com">
     <img src="https://img.shields.io/badge/Email-ikhsan.bskr03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/ikhsanbskr?tab=followers">
-    <img src="https://img.shields.io/github/followers/ikhsanbskr?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers" />
+  <a href="https://instagram.com/ikhsanbskr_/">
+    <img src="https://img.shields.io/badge/Instagram-@ikhsanbskr__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ikhsanbskr&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
@@ -107,12 +106,8 @@ I work as a full-stack developer at IncubeSolutions in Tangerang Selatan, where 
 ## GitHub stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=ikhsanbskr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="Ikhsan's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ikhsanbskr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=ikhsanbskr&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ikhsanbskr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Most Used Languages" />
+  <img height="175em" src="https://streak-stats.demolab.com?user=ikhsanbskr&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Contributions and Streak" />
 </div>
 
 ## Activity

@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:3b82f6&height=220&section=header&text=Muhammad%20Ikhsan%20Trianda%20Baskara&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20ERP%20%E2%80%A2%20HRIS%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile&descAlignY=58&descSize=16" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:3b82f6&height=220&section=header&text=Muhammad%20Ikhsan%20Trianda%20Baskara&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20ERP%20%E2%80%A2%20HRIS%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile&descAlignY=58&descSize=16" alt="Muhammad Ikhsan Trianda Baskara - Full-Stack Developer and ERP Engineer" />
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://github.com/ikhsanbskr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=780&lines=Full-Stack+Developer+%40+IncubeSolutions;Building+ERP%2C+HRIS%2C+CMS%2C+and+Android+Systems;PHP%2C+Laravel%2C+CodeIgniter%2C+Node.js%2C+React%2C+Next.js%2C+SQL+Server;Desktop+Apps+with+Java+NetBeans+and+VB.NET" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=780&lines=Full-Stack+Developer+%40+IncubeSolutions;Building+ERP%2C+HRIS%2C+CMS%2C+and+Android+Systems;PHP%2C+Laravel%2C+CodeIgniter%2C+Node.js%2C+React%2C+Next.js%2C+SQL+Server;Desktop+Apps+with+Java+NetBeans+and+VB.NET" alt="Muhammad Ikhsan Trianda Baskara (Ikhsan Baskara) - Full-Stack Developer" />
 </a>
 
 <br/>
@@ -13,13 +13,13 @@
 <!-- SOCIAL & PROFILE BADGES -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ikhsanbskr/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ikhsan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ikhsan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Ikhsan Trianda Baskara LinkedIn" />
   </a>
   <a href="mailto:ikhsan.bskr03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ikhsan.bskr03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ikhsan.bskr03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Muhammad Ikhsan Trianda Baskara Email" />
   </a>
   <a href="https://instagram.com/ikhsanbskr_/">
-    <img src="https://img.shields.io/badge/Instagram-@ikhsanbskr__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@ikhsanbskr__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ikhsan Baskara Instagram" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ focus:
   - "Desktop apps: Java (NetBeans) and Visual Basic (VB.NET)"
 ```
 
-I'm a full-stack developer with over three years of experience building and maintaining web, Android, and desktop systems. At IncubeSolutions (since June 2023), I work directly with client companies from requirements gathering through on-site deployment to deliver ERP, HRIS, and CMS platforms. My day-to-day covers backend business logic like PPh 21 payroll tax calculation using TER (Tarif Efektif Rata-rata) rates, member management systems (P3KPI), and product certification monitoring, along with on-site hardware integration connecting factory weighing systems and fingerprint machines to internal databases.
+I'm **Muhammad Ikhsan Trianda Baskara** (Ikhsan Baskara), a full-stack developer with over three years of experience building and maintaining web, Android, and desktop systems. At IncubeSolutions (since June 2023), I work directly with client companies from requirements gathering through on-site deployment to deliver ERP, HRIS, and CMS platforms. My day-to-day covers backend business logic like PPh 21 payroll tax calculation using TER (Tarif Efektif Rata-rata) rates, member management systems (P3KPI), and product certification monitoring, along with on-site hardware integration connecting factory weighing systems and fingerprint machines to internal databases.
 
 Previously, I interned at Century 21 Prima (2022), where I built a web-based attendance application with GPS location tracking and QR code scanning. Before starting my Informatics Engineering degree at Universitas Pamulang, I graduated in Software Engineering from SMK Al-Amanah and won 1st Place in the 2023 South Tangerang LKS Web Technology Competition.
 

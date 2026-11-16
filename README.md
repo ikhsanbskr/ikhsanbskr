@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:3b82f6&height=220&section=header&text=Muhammad%20Ikhsan%20Trianda%20Baskara&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Enterprise%20ERP%20%26%20HRIS%20Engineer&descAlignY=58&descSize=16" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:3b82f6&height=220&section=header&text=Muhammad%20Ikhsan%20Trianda%20Baskara&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20ERP%20Engineer&descAlignY=58&descSize=16" alt="Header Banner" />
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://github.com/ikhsanbskr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=780&lines=Hi+there!+I'm+Ikhsan+%F0%9F%91%8B;Full-Stack+Developer+%26+ERP+Engineer+%40+IncubeSolutions+%F0%9F%8F%A2;Architecting+Enterprise+ERP%2C+HRIS+%26+Business+Workflows+%F0%9F%9A%80;Specializing+in+PHP%2C+Laravel%2C+React%2C+Next.js+%26+SQL+Server+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=780&lines=Full-Stack+Developer+%40+IncubeSolutions;Building+ERP%2C+HRIS%2C+and+internal+business+systems;Working+with+PHP%2C+Laravel%2C+React%2C+Next.js%2C+and+SQL+Server;Desktop+development+with+Java+(NetBeans)+and+VB.NET" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,44 +26,39 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
+## About me
 
 ```yaml
 name: "Muhammad Ikhsan Trianda Baskara"
-role: "Full-Stack Developer & ERP System Engineer @ IncubeSolutions"
-location: "Tangerang Selatan, Indonesia 🇮🇩"
-core_focus:
-  - "Enterprise Resource Planning (ERP) — Sales, Invoicing, Inventory & Multi-Level Approvals"
-  - "Human Resource Information Systems (HRIS) — Attendance, Payroll & Employee Portals"
-  - "Modern Full-Stack Web & Desktop Applications (Laravel, React, Next.js, Java/NetBeans, VB.NET)"
-  - "Relational Database Architecture & Query Optimization (SQL Server, MySQL, PostgreSQL)"
-philosophy: "Translating complex business operations into reliable, scalable, and intuitive software."
+role: "Full-Stack Developer @ IncubeSolutions"
+location: "Tangerang Selatan, Indonesia"
+work:
+  - "ERP modules: sales orders, invoicing, inventory, and multi-level document approvals"
+  - "HRIS: attendance machine sync, leave management, and payroll"
+  - "Web applications with PHP, Laravel, CodeIgniter, React, and Next.js"
+  - "Desktop applications with Java (NetBeans) and Visual Basic (.NET)"
 ```
 
-I am a **Full-Stack Software Developer** and **ERP System Engineer** based in Indonesia, currently building enterprise software solutions at **IncubeSolutions**. My work centers on designing and maintaining mission-critical **ERP** and **HRIS** platforms—handling end-to-end business workflows such as sales orders, billing & invoicing, inventory management, attendance machine synchronization, and multi-tier document approvals—alongside developing modern full-stack web and desktop applications using **Laravel, CodeIgniter, React, Next.js, TypeScript, Java (NetBeans), and Visual Basic**.
+I work as a full-stack developer at IncubeSolutions in Tangerang Selatan, where I build and maintain ERP and HRIS systems for manufacturing and service companies. Most of my day-to-day involves PHP and SQL Server on the backend: writing stored procedures, handling stock and invoice accounting rules, syncing biometric attendance machines, and wiring up multi-step approval workflows. For newer web projects I use Laravel, Inertia.js, React, and Next.js, and I also build desktop tools in Java (NetBeans) and VB.NET.
 
----
-
-## 🛠️ Tech Stack & Arsenal
+## Tech stack
 
 <div align="center">
 
-### 💻 Languages & Core Technologies
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=php,ts,js,java,dotnet,html,css,bash&theme=dark" alt="Languages" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java_(Desktop)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Desktop" />
   <img src="https://img.shields.io/badge/Visual_Basic_(VB.NET)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Visual Basic Desktop" />
   <img src="https://img.shields.io/badge/T--SQL_%2F_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
 </p>
 
-### 🚀 Frameworks, Desktop & UI
+### Frameworks, desktop, and UI
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,tailwind,bootstrap,jquery,vite&theme=dark" alt="Frameworks" />
 </p>
@@ -78,7 +73,7 @@ I am a **Full-Stack Software Developer** and **ERP System Engineer** based in In
   <img src="https://img.shields.io/badge/.NET_Desktop_(WinForms)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Desktop" />
 </p>
 
-### 🗄️ Databases, IDEs & Infrastructure
+### Databases, IDEs, and tools
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,docker,linux,arch,vscode,visualstudio,postman,figma&theme=dark" alt="Databases and Tools" />
 </p>
@@ -94,9 +89,7 @@ I am a **Full-Stack Software Developer** and **ERP System Engineer** based in In
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+## Trophies
 
 <div align="center">
   <a href="https://github.com/ikhsanbskr">
@@ -104,9 +97,7 @@ I am a **Full-Stack Software Developer** and **ERP System Engineer** based in In
   </a>
 </div>
 
----
-
-## 📊 GitHub Analytics & Streak
+## GitHub stats
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ikhsanbskr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="Ikhsan's GitHub Stats" />
@@ -117,17 +108,13 @@ I am a **Full-Stack Software Developer** and **ERP System Engineer** based in In
   <img width="65%" src="https://streak-stats.demolab.com?user=ikhsanbskr&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
 
----
-
-## 📈 Contribution Activity Graph
+## Activity
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ikhsanbskr&bg_color=0d1117&color=38bdf8&line=3b82f6&point=ffffff&area=true&hide_border=true" alt="Ikhsan's Activity Graph" />
 </div>
 
----
-
-## 🐍 My Contributions Snake
+## Contribution graph
 
 <div align="center">
   <picture>
@@ -139,5 +126,5 @@ I am a **Full-Stack Software Developer** and **ERP System Engineer** based in In
 
 <!-- DYNAMIC FOOTER BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:3b82f6&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20awesome%20together.&fontSize=16&fontColor=ffffff&fontAlignY=65" alt="Footer Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:3b82f6&height=100&section=footer" alt="Footer Banner" />
 </div>

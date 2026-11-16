@@ -55,7 +55,7 @@ I am a **Full-Stack Software Developer** and **ERP System Engineer** based in In
   <img src="https://skillicons.dev/icons?i=php,ts,js,html,css,bash&theme=dark" alt="Languages" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/PHP-7.4%20%7C%208.2+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/T--SQL_%2F_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
